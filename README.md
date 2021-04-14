@@ -4,6 +4,7 @@ James Spurin - Links to Talks, Blogs, Publications, Stories etc
 
 | Date       | Summary                                             | Link                                                                                         |
 | ---------- | --------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| 2021/04/14 | DevOps For Everyone - Redis with Persistent Storage | |
 | 2021/03/14 | Cloud Field Day 10 - StorageOS Technology Use Cases | [Vimeo](https://vimeo.com/522600934), [YouTube](https://www.youtube.com/watch?v=6EZ7j_6Ta7o) |
 | 2021/03/03 | Performance Benchmarking Cloud Native Solutions for Kubernetes | [Source](https://storageos.com/performance-benchmarking-cloud-native-storage-solutions-for-kubernetes), [Archive](https://web.archive.org/web/20210314210935/https://storageos.com/performance-benchmarking-cloud-native-storage-solutions-for-kubernetes)
 | 2021/01/28 | LondonIAC - Ansible Playbook Peformance and Bottlenecks | [YouTube](https://www.youtube.com/watch?v=Cu43k9KkUxc) |
